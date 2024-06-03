@@ -1,3 +1,5 @@
+
+
 # Python para Não Programadores
  
 Este é o repositório do curso de LinkedIn Learning `Python para Não Programadores`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
@@ -33,3 +35,4 @@ Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learn
 
 [1]: # (End of BP-Instruction ###############################################################################################)
 
+python 
